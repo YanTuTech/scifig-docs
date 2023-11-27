@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3664],{4732:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/scifig-docs/blog/tags/hello","allTagsPath":"/scifig-docs/blog/tags","count":2,"unlisted":false}')}}]);
